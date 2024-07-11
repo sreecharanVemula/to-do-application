@@ -6,7 +6,7 @@ import {createBrowserRouter,RouterProvider} from 'react-router-dom'
 function App() {
   let router=createBrowserRouter([
     {
-        path:'sreecharanVemula/to-do-application',
+        path:'/sreecharanVemula/to-do-application.git',
         element: <Managetasks/>,
          
     }])
